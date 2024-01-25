@@ -1,5 +1,5 @@
 export interface ClienteData{
-    id:number,
+    id?:number,
     title:string,
     image:string,
     price:number
