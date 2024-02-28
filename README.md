@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite with BackEnd-Tattoo
 ![image](https://github.com/joaomarcos-cordeiro/Frontend-Tattoo/assets/112775602/e287ee01-b276-4149-8096-df4dea4e325c)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
