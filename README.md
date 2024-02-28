@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+![image](https://github.com/joaomarcos-cordeiro/Frontend-Tattoo/assets/112775602/e287ee01-b276-4149-8096-df4dea4e325c)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -29,6 +30,6 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-- ![image](https://github.com/joaomarcos-cordeiro/Frontend-Tattoo/assets/112775602/e0016ff5-5c75-4f10-9738-4a75022fe3c2)
+
   
 
