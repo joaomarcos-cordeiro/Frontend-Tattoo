@@ -1,16 +1,16 @@
-# React + TypeScript + Vite with BackEnd-Tattoo
+# React + TypeScript + Vite with BackEnd-Tattoo 
 
-Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
+##Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
 
 Passos para executar o front-end:
 Execute: npm install (para baixar todas as dependencias Vite e do Typscript)
 
-Iniciar o projeto
+##Iniciar o projeto
 
 Execute: npm run dev
 O projeto será iniciado e estará pronto para uso. 🚀
 
-Abaixo segue a apresentação do site e sua funcionalidade.
+##Abaixo segue a apresentação do site e sua funcionalidade.
 
 ![1](https://github.com/user-attachments/assets/74a7f9e1-c801-4183-9eaa-02f4920252c4)
 ![2](https://github.com/user-attachments/assets/8de782b9-eb08-4152-9bc7-8e3ef3b73c42)
