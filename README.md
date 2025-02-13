@@ -4,7 +4,7 @@ Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta
 
 Passos para executar o front-end:
 
-Execute: npm install (para baixar todas as dependencias Vite e do Typscript)
+Execute: npm install (para baixar todas as dependências Vite e do Typscript)
 
 Iniciar o projeto
 
