@@ -10,7 +10,7 @@ Iniciar o projeto
 Execute: npm run dev
 O projeto será iniciado e estará pronto para uso. 🚀
 
-##Abaixo segue a apresentação do site e sua funcionalidade.
+Abaixo segue a apresentação do site e sua funcionalidade.
 
 ![1](https://github.com/user-attachments/assets/74a7f9e1-c801-4183-9eaa-02f4920252c4)
 ![2](https://github.com/user-attachments/assets/8de782b9-eb08-4152-9bc7-8e3ef3b73c42)
