@@ -1,12 +1,20 @@
 # React + TypeScript + Vite with BackEnd-Tattoo
-![image](https://github.com/joaomarcos-cordeiro/Frontend-Tattoo/assets/112775602/e287ee01-b276-4149-8096-df4dea4e325c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
 
-Currently, two official plugins are available:
+Passos para executar o front-end:
+Execute: npm install (para baixar todas as dependencias Vite e do Typscript)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Iniciar o projeto
+
+Execute: npm run dev
+O projeto será iniciado e estará pronto para uso. 🚀
+
+![1](https://github.com/user-attachments/assets/74a7f9e1-c801-4183-9eaa-02f4920252c4)
+![2](https://github.com/user-attachments/assets/8de782b9-eb08-4152-9bc7-8e3ef3b73c42)
+![3](https://github.com/user-attachments/assets/0a0d3abf-c8a7-4c37-98d1-ad8b9f48e777)
+![4](https://github.com/user-attachments/assets/78e3ddb3-d606-46e5-8ca3-028ca9c9b82c)
+![5](https://github.com/user-attachments/assets/0a5757ff-80e4-412c-8160-dc0ad3c9feae)
 
 
 
