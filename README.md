@@ -1,6 +1,6 @@
 # React + TypeScript + Vite with BackEnd-Tattoo 
 
-Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
+## Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
 
 Passos para executar o front-end:
 
