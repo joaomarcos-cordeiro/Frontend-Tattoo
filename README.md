@@ -27,9 +27,16 @@
   Uso de bundler moderno (Vite, Webpack…)
 
  
- - Estrutura do Projeto
-<pre> ```bash src/ ├── components/ # Componentes reutilizáveis da interface ├── pages/ # Páginas principais ├── assets/ # Imagens, ícones e estilos ├── App.tsx # Estrutura geral da aplicação └── main.tsx # Ponto de entrada ``` </pre>
-1. Passos para executar o Frontend-Tattoo:
+📁 Estrutura do Projeto
+
+```
+src/
+├── components/ # Componentes reutilizáveis da interface
+├── pages/ # Páginas principais
+├── assets/ # Imagens, ícones e estilos
+├── App.tsx # Estrutura geral da aplicação
+└── main.tsx # Ponto de entrada
+```
 
 - Execute: npm install (para baixar todas as dependências Vite e do Typscript)
 
