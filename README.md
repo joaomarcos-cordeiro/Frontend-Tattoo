@@ -4,7 +4,15 @@
 
  Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
 
+-Durante o desenvolvimento deste projeto, foram praticados:
 
+Estruturação e organização de um projeto front-end
+
+Criação de componentes reutilizáveis
+
+Boas práticas com HTML, CSS e JS/TS
+
+Uso de bundler moderno (Vite, Webpack…)
 
  
 
