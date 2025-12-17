@@ -6,17 +6,17 @@
 
 - Stack Tecnológica
 
-  React 
+ ◦ React 
 
-  JavaScript / TypeScript
+ ◦ JavaScript / TypeScript
 
-  Vite 
+ ◦ Vite 
 
-  HTML5 & CSS3
+ ◦ HTML5 & CSS3
 
-  Axios
+ ◦ Axios
 
-- Durante o desenvolvimento deste projeto, foram praticados:
+## Durante o desenvolvimento deste projeto, foram praticados:
 
   Estruturação e organização do front-end
 
