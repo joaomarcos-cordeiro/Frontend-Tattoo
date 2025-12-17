@@ -22,8 +22,6 @@
 
 ◦ Criação de componentes reutilizáveis
 
-◦ Boas práticas com HTML, CSS e JS/TS
-
 ◦ Uso de bundler moderno (Vite)
 
  
