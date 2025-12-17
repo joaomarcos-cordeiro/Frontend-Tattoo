@@ -18,13 +18,13 @@
 
 - Durante o desenvolvimento deste projeto, foram praticados:
 
-  Estruturação e organização do front-end
+◦ Estruturação e organização do front-end
 
-  Criação de componentes reutilizáveis
+◦ Criação de componentes reutilizáveis
 
-  Boas práticas com HTML, CSS e JS/TS
+◦ Boas práticas com HTML, CSS e JS/TS
 
-  Uso de bundler moderno (Vite)
+◦ Uso de bundler moderno (Vite)
 
  
 📁 Estrutura do Projeto
