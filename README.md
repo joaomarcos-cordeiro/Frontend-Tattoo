@@ -16,7 +16,7 @@
 
  ◦ Axios
 
-* Durante o desenvolvimento deste projeto, foram praticados:
+``` Durante o desenvolvimento deste projeto, foram praticados:```
 
  Estruturação e organização do front-end
 
