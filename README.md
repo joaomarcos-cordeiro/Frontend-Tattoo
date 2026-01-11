@@ -46,7 +46,7 @@ src/
 
 Frontend-Tatto is a web system for displaying and selling tattoos, featuring CRUD functionalities (Create, Read, Update, Delete).
 
-Technology Stack
+-  Technology Stack
 
 ◦ React
 
