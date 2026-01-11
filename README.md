@@ -77,11 +77,11 @@ src/
 └── main.tsx # Entry point
 ```
 
-Run: npm install (to download all Vite and TypeScript dependencies)
+- Run: npm install (to download all Vite and TypeScript dependencies)
 
-Start the project
+2. Start the project
 
-Run: npm run dev
+- Run: npm run dev
 
 ## Below is the presentation of the website and its functionality.
 
