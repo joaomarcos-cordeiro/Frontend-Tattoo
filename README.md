@@ -42,6 +42,8 @@ src/
 
 - Execute: npm run dev
 
+  ## ~~~English
+
 Frontend-Tatto is a web system for displaying and selling tattoos, featuring CRUD functionalities (Create, Read, Update, Delete).
 
 Technology Stack
