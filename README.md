@@ -42,7 +42,46 @@ src/
 
 - Execute: npm run dev
 
+Frontend-Tatto is a web system for displaying and selling tattoos, featuring CRUD functionalities (Create, Read, Update, Delete).
 
+Technology Stack
+
+◦ React
+
+◦ JavaScript / TypeScript
+
+◦ Vite
+
+◦ HTML5 & CSS3
+
+◦ Axios
+
+During the development of this project, the following practices were applied:
+
+Front-end structuring and organization
+
+Creation of reusable components
+
+Use of a modern bundler (Vite)
+
+📁 Project Structure
+
+```
+src/
+├── components/ # Reusable UI components
+├── pages/ # Main pages
+├── assets/ # Images, icons, and styles
+├── App.tsx # General application structure
+└── main.tsx # Entry point
+```
+
+Run: npm install (to download all Vite and TypeScript dependencies)
+
+Start the project
+
+Run: npm run dev
+
+## Below is the presentation of the website and its functionality.
 
 ## Abaixo segue a apresentação do site e sua funcionalidade.
 
