@@ -58,7 +58,7 @@ Frontend-Tatto is a web system for displaying and selling tattoos, featuring CRU
 
 ◦ Axios
 
-During the development of this project, the following practices were applied:
+```  During the development of this project, the following practices were applied: ``` 
 
 Front-end structuring and organization
 
